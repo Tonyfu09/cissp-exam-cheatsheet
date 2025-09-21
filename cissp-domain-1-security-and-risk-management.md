@@ -8,7 +8,7 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 ---
 
-## Comparison List  
+## Scenario List  
 
 When conducting a **risk assessment**, the team should discuss these metrics: **ALE, SLE, ARO, EF**.  
 
