@@ -45,12 +45,40 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 ## Regulation
-FERPA
+### FERPA (Family Educational Rights and Privacy Act)
+- U.S. law protecting **student education records**.
+- Grants students rights over their records (access, correction, some control of disclosure).
+- Applies to schools receiving funds from the U.S. Department of Education.
 
-HIPAA
+---
 
-SOX
+### HIPAA (Health Insurance Portability and Accountability Act)
+- U.S. law for **healthcare data protection**.
+- Safeguards **PHI (Protected Health Information)** and **ePHI (Electronic PHI)**.
+- Key rules:
+  - **Privacy Rule**: governs use/disclosure of PHI.
+  - **Security Rule**: requires safeguards for ePHI (admin, physical, technical).
+  - **Breach Notification Rule**: requires reporting of PHI breaches.
 
-PCI DSS
+---
+
+### SOX (Sarbanes–Oxley Act of 2002)
+- U.S. law ensuring **accuracy and integrity of financial reporting** for public companies.
+- Focus on **internal controls** and **auditing requirements**.
+- Section 404: Management and auditors must report on effectiveness of internal controls.
+- Aims to protect investors from corporate fraud.
+
+---
+
+### PCI DSS (Payment Card Industry Data Security Standard)
+- Industry standard (not a law) for organizations handling **cardholder data**.
+- Requirements include:
+  - Protect cardholder data (encryption, masking, storage limits).
+  - Maintain secure networks and systems (firewalls, patching).
+  - Implement strong access control (MFA, least privilege).
+  - Regular monitoring, testing, and vulnerability management.
+- Compliance required by credit card brands (Visa, MasterCard, etc.).
+
+---
 
 
