@@ -1,10 +1,20 @@
 
-**Description**
-CISSP Domain 1, Security and Risk Management, forms the foundation of information security, covering principles like the CIA triad, security governance, and risk management concepts to protect organizational assets, ensure compliance with laws and regulations, and maintain ethical conduct.
+## Description  
+CISSP Domain 1, **Security and Risk Management**, forms the foundation of information security.  
+It covers principles like the **CIA triad**, **security governance**, and **risk management concepts** to:  
+- Protect organizational assets  
+- Ensure compliance with laws and regulations  
+- Maintain ethical conduct  
 
-**Comparison List**
-- When conducting a risk assessment. Team to discuss about the amount of damage is ALE, SLE, ARO, EF.
-|  | ALE | SLE | ARO | EF |
-|Defination|--------|------------|------------|------------|
-|Functional|--------|------------|------------|------------|
-|--------|--------|------------|------------|------------|
+---
+
+## Comparison List  
+
+When conducting a **risk assessment**, the team should discuss these metrics: **ALE, SLE, ARO, EF**.  
+
+| Term        | Definition | Functional Use |
+|-------------|------------|----------------|
+| **ALE** (Annualized Loss Expectancy) | Expected yearly loss from a risk | Helps quantify total financial risk |
+| **SLE** (Single Loss Expectancy)     | Cost of a single incident | Measures the impact per occurrence |
+| **ARO** (Annualized Rate of Occurrence) | Estimated frequency of an incident per year | Helps predict likelihood of risk |
+| **EF** (Exposure Factor)             | Percentage of asset value lost due to incident | Shows proportional damage to asset |
