@@ -10,7 +10,7 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 ## Scenario List  
 
-When conducting a **risk assessment**, the team should discuss these metrics: **ALE, SLE, ARO, EF**.  
+1. When conducting a **risk assessment**, the team should discuss these metrics: **ALE, SLE, ARO, EF**.  
 
 | Term        | Definition | Functional Use |
 |-------------|------------|----------------|
@@ -18,3 +18,16 @@ When conducting a **risk assessment**, the team should discuss these metrics: **
 | **SLE** (Single Loss Expectancy)     | Cost of a single incident | Measures the impact per occurrence |
 | **ARO** (Annualized Rate of Occurrence) | Estimated frequency of an incident per year | Helps predict likelihood of risk |
 | **EF** (Exposure Factor)             | Percentage of asset value lost due to incident | Shows proportional damage to asset |
+
+2. Principle that for exercise in a particular situation to avoid causing harm to others, serving as the standard for determining negligence in legal case
+
+| Term        | Definition | Functional Use |
+|-------------|------------|----------------|
+| **Due care** | Expected yearly loss from a risk | Helps quantify total financial risk |
+| **Due diligence** | Cost of a single incident | Measures the impact per occurrence |
+
+3.
+
+
+4. 
+
