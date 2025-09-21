@@ -37,9 +37,9 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 | Term        | Definition | Functional Use |
 |-------------|------------|----------------|
-| **C** | Acting responsibly to avoid causing harm to others (the “prudent person” rule) | Demonstrates that reasonable protective measures were taken |
-| **I** | Ongoing process of ensuring policies, procedures, and controls are maintained | Shows continuous monitoring and oversight of risks |
-| **A** | Ongoing process of ensuring policies, procedures, and controls are maintained | Shows continuous monitoring and oversight of risks |
+| **C** |  |  |
+| **I** |  |  |
+| **A** |  |  |
 
 7. 
 
