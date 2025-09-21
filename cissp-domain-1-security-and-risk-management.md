@@ -23,8 +23,9 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 | Term        | Definition | Functional Use |
 |-------------|------------|----------------|
-| **Due care** | Expected yearly loss from a risk | Helps quantify total financial risk |
-| **Due diligence** | Cost of a single incident | Measures the impact per occurrence |
+| **Due Care** | Acting responsibly to avoid causing harm to others (the “prudent person” rule) | Demonstrates that reasonable protective measures were taken |
+| **Due Diligence** | Ongoing process of ensuring policies, procedures, and controls are maintained | Shows continuous monitoring and oversight of risks |
+
 
 3. metric that for reduce the risk
 
