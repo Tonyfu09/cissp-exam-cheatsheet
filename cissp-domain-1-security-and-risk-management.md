@@ -30,7 +30,7 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 3. metric that for reduce the risk
 
 
-4. 
+4. Types of intellectual property protection
 
 
 5.
@@ -40,3 +40,10 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 ## Regulation
+- FERPA
+
+- HIPAA
+
+- SOX
+
+- PCI DSS
