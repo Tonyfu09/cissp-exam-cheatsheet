@@ -5,6 +5,6 @@ CISSP Domain 1, Security and Risk Management, forms the foundation of informatio
 **Comparison List**
 - When conducting a risk assessment. Team to discuss about the amount of damage is ALE, SLE, ARO, EF.
 |  | ALE | SLE | ARO | EF |
-|Defination|--------|------------|
-|Functional|--------|------------|
-|--------|--------|------------|
+|Defination|--------|------------|------------|------------|
+|Functional|--------|------------|------------|------------|
+|--------|--------|------------|------------|------------|
