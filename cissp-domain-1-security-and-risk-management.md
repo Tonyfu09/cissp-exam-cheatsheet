@@ -45,10 +45,12 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 ## Key Regulations & Standards
+
 ### FERPA (Family Educational Rights and Privacy Act)
 - U.S. law protecting **student education records**.
 - Grants students rights over their records (access, correction, some control of disclosure).
 - Applies to schools receiving funds from the U.S. Department of Education.
+- **Penalties**: Can lose federal funding (no direct monetary fines to individuals).
 
 ---
 
@@ -56,9 +58,11 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - U.S. law for **healthcare data protection**.
 - Safeguards **PHI (Protected Health Information)** and **ePHI (Electronic PHI)**.
 - Key rules:
-  - **Privacy Rule**: governs use/disclosure of PHI.
-  - **Security Rule**: requires safeguards for ePHI (admin, physical, technical).
-  - **Breach Notification Rule**: requires reporting of PHI breaches.
+  - **Privacy Rule** (use/disclosure of PHI)
+  - **Security Rule** (admin, physical, technical safeguards)
+  - **Breach Notification Rule** (reporting requirements)
+- **Penalties**: Civil fines up to **$1.5M per year** for identical violations;  
+  Criminal penalties up to **$250,000 fine and 10 years in prison**.
 
 ---
 
@@ -66,19 +70,27 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - U.S. law ensuring **accuracy and integrity of financial reporting** for public companies.
 - Focus on **internal controls** and **auditing requirements**.
 - Section 404: Management and auditors must report on effectiveness of internal controls.
-- Aims to protect investors from corporate fraud.
+- **Penalties**: Fines up to **$5M** and prison up to **20 years** for willful violations (fraud, destroying records).
 
 ---
 
 ### PCI DSS (Payment Card Industry Data Security Standard)
 - Industry standard (not a law) for organizations handling **cardholder data**.
-- Requirements include:
+- Requirements:
   - Protect cardholder data (encryption, masking, storage limits).
-  - Maintain secure networks and systems (firewalls, patching).
-  - Implement strong access control (MFA, least privilege).
-  - Regular monitoring, testing, and vulnerability management.
-- Compliance required by credit card brands (Visa, MasterCard, etc.).
+  - Secure networks and systems (firewalls, patching).
+  - Strong access control (MFA, least privilege).
+  - Continuous monitoring, testing, and risk management.
+- **Penalties**: Fines from **$5,000 to $100,000 per month** for non-compliance;  
+  Risk of losing ability to process card payments.
 
 ---
 
+## Comparison Table
 
+| Regulation | Scope / Data Protected | Applies To | Penalties |
+|------------|------------------------|------------|-----------|
+| **FERPA** | Student education records | Schools receiving U.S. Dept. of Ed funding | Loss of federal funding |
+| **HIPAA** | PHI / ePHI (healthcare data) | Healthcare providers, insurers, business associates | Civil fines up to $1.5M/year; Criminal up to $250k + 10 yrs prison |
+| **SOX** | Financial reporting & records | Publicly traded U.S. companies | Fines up to $5M; Up to 20 yrs prison |
+| **PCI DSS** | Cardholder data | Merchants, service providers handling payment cards | $5k–$100k per month; Possible loss of card processing ability |
