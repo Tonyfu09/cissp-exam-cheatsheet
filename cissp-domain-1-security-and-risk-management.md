@@ -44,7 +44,7 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 7. 
 
 
-## Regulation
+## Key Regulations & Standards
 ### FERPA (Family Educational Rights and Privacy Act)
 - U.S. law protecting **student education records**.
 - Grants students rights over their records (access, correction, some control of disclosure).
