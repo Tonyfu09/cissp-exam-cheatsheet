@@ -26,8 +26,14 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Due care** | Expected yearly loss from a risk | Helps quantify total financial risk |
 | **Due diligence** | Cost of a single incident | Measures the impact per occurrence |
 
-3.
+3. metric that for reduce the risk
 
 
 4. 
+
+
+5.
+
+
+6. 
 
