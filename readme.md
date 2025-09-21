@@ -9,3 +9,7 @@ The goal is to:
 
 These notes are not a replacement for official materials, but a **study aid** to help recall key concepts and approaches when facing CISSP exam questions.
 
+## Exam Topic weight
+
+
+## Reference
