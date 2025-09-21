@@ -40,10 +40,10 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 ## Regulation
-- FERPA
+FERPA
 
-- HIPAA
+HIPAA
 
-- SOX
+SOX
 
-- PCI DSS
+PCI DSS
