@@ -53,6 +53,8 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 ### Phase 5
 ### Phase 6
 
+## DREAD risk rating system
+
 
 ## Key Regulations & Standards
 
