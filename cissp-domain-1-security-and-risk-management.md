@@ -44,6 +44,16 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 7. 
 
 
+## RMF phase
+
+### Phase 1
+### Phase 2
+### Phase 3
+### Phase 4
+### Phase 5
+### Phase 6
+
+
 ## Key Regulations & Standards
 
 ### FERPA (Family Educational Rights and Privacy Act)
