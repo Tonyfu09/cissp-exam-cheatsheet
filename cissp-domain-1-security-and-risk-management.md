@@ -41,7 +41,9 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **I** |  |  |
 | **A** |  |  |
 
-7. 
+
+
+## STRIDE model
 
 
 ## RMF phase
