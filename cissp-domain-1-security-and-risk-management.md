@@ -31,7 +31,12 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 4. Types of intellectual property protection
-
+| Term        | Definition | Functional Use |
+|-------------|------------|----------------|
+| **Patents** | Protect inventions or processes   |  | 
+| **Trademarks** | Protect brand names, logos, and symbols   |  | 
+| **Copyrights** | Protect creative works like books, music, software   |  | 
+| **Trade Secrets** | Protect confidential business information   |  | 
 
 5. Security goal
 
