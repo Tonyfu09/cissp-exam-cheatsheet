@@ -1,9 +1,10 @@
 ## Description  
-CISSP Domain 3, **Security Architecture**, forms the......  
-It covers principles like the .... to:  
-- P...
--...s  
-- ...
+CISSP Domain 3, **Security Architecture and Engineering**, forms the foundation for designing and implementing secure systems.  
+It covers principles like **security models, architecture frameworks, cryptography, and physical security** to:  
+
+- **Protect assets and information** by enforcing confidentiality, integrity, and availability  
+- **Ensure systems are resilient** against attacks and vulnerabilities  
+- **Support compliance** with organizational policies, laws, and regulations
 
 ---
 
