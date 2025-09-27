@@ -1,4 +1,13 @@
+## Description  
+CISSP Domain 3, **Security Architecture**, forms the......  
+It covers principles like the .... to:  
+- P...
+-...s  
+- ...
 
+---
+
+## Scenario List
 
 Data sovereignty
 
