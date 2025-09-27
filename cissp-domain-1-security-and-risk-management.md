@@ -106,6 +106,10 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 ---
 
+### Children's Online Privacy Protection Act (COPPA)
+
+---
+
 ## Comparison Table
 
 | Regulation | Scope / Data Protected | Applies To | Penalties |
