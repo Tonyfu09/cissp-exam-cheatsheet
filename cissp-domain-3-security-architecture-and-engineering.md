@@ -24,3 +24,11 @@ Two-person control, also known as the two-person rule or two-person integrity, i
 
 encryption algorithm modes
 
+
+Understand methods of cryptanalytic attacks
+- Side channel attack
+- Brute-force attack
+- Timing attack
+- Fault injection attack
+
+
