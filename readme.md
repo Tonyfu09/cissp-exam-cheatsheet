@@ -22,7 +22,7 @@ These notes are not a replacement for official materials, but a **study aid** to
 | **7. Security Operations** | Covers incident response, logging, monitoring, disaster recovery | **13%** |
 | **8. Software Development Security** | Covers SDLC, secure coding practices, DevSecOps | **11%** |
 
-**Exam Details**:  
+## Exam Details  
 - Total questions: 125–175 (adaptive CAT exam)  
 - Duration: 4 hours  
 - Passing score: 700 out of 1000 (≈70%)
