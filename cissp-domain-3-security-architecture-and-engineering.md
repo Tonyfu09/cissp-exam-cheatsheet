@@ -32,3 +32,5 @@ Understand methods of cryptanalytic attacks
 - Fault injection attack
 
 
+zero trust model has been the proliferation of endpoint devices
+
