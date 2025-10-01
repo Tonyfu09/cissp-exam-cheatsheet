@@ -34,3 +34,5 @@ Understand methods of cryptanalytic attacks
 
 zero trust model has been the proliferation of endpoint devices
 
+
+ Digital Signature Standard approves three encryption algorithms
