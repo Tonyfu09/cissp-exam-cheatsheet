@@ -64,6 +64,9 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 ## DREAD risk rating system
 
 
+## security control assessment (SCA)
+In the session 1.10 
+
 ## Key Regulations & Standards
 
 ### FERPA (Family Educational Rights and Privacy Act)
