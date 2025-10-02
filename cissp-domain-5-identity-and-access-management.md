@@ -45,3 +45,5 @@ When applying **access control models**, the organization may use different appr
 | **ABAC (Attribute-Based Access Control)** | Access based on attributes and policies | Granular and dynamic, useful for cloud environments |
 
 
+industrial control systems (ICSs)
+
