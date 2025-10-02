@@ -47,3 +47,6 @@ When applying **access control models**, the organization may use different appr
 
 industrial control systems (ICSs)
 
+Hybrid environments combine both hierarchical and compartmentalized environments so that security levels have sub-compartments.
+
+RADIUS
