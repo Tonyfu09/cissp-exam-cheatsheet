@@ -29,8 +29,8 @@ When selecting **authentication factors**, consider the **Type 1, Type 2, and Ty
 | Type | Definition | Examples |
 |------|------------|----------|
 | **Type 1: Something you know** | Information only the user should know | Passwords, PINs, security questions |
-| **Type 2: Something you have** | Physical or virtual objects possessed by the user | Smart cards, tokens, mobile OTP apps |
-| **Type 3: Something you are** | Biometric characteristics | Fingerprints, iris scans, facial recognition |
+| **Type 2: Something you have** | Physical or virtual objects possessed by the user | Smart cards, tokens, mobile OTP apps, mobile phone |
+| **Type 3: Something you are** | Biometric characteristics | Fingerprints, iris scans, facial recognition, landline phone number |
 
 ---
 
