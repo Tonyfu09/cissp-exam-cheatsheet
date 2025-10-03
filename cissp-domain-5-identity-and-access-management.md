@@ -50,3 +50,7 @@ industrial control systems (ICSs)
 Hybrid environments combine both hierarchical and compartmentalized environments so that security levels have sub-compartments.
 
 RADIUS
+
+passphrase
+
+
