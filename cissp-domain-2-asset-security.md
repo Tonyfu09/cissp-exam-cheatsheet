@@ -8,6 +8,7 @@ Public, Private, Sensitive, Proprietary, Critical, Confidential
 unused space in a cluster. <- Example
 
 2.6 Determine data security controls and compliance requirements
+Data masking
 
 ---
 
