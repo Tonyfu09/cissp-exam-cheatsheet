@@ -4,7 +4,10 @@ CISSP Domain 1, **Security and Risk Management**, forms the foundation of inform
 It covers principles like the **CIA triad**, **security governance**, and **risk management concepts** to:  
 - Protect organizational assets  
 - Ensure compliance with laws and regulations  
-- Maintain ethical conduct  
+- Maintain ethical conduct
+
+
+##1.3 Evaluate and apply security governance principles
 
 ---
 
