@@ -27,7 +27,17 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Due Diligence** | Ongoing process of ensuring policies, procedures, and controls are maintained | Shows continuous monitoring and oversight of risks |
 
 
-3. metric that for reduce the risk
+3. Metrics for reducing risk  
+
+| Term | Definition | Functional Use |
+|------|-------------|----------------|
+| **Risk Avoidance** | Eliminate the risk source entirely | Example: Disable a vulnerable service |
+| **Risk Mitigation** | Reduce the likelihood or impact | Example: Apply patches, add firewalls |
+| **Risk Transfer** | Shift the risk to another party | Example: Insurance, outsourcing |
+| **Risk Acceptance** | Acknowledge and accept the residual risk | Example: Low impact and low probability events |
+| **Risk Sharing** | Divide responsibility among parties | Example: Joint ventures, partnerships |
+
+---
 
 
 4. Types of intellectual property protection
@@ -39,33 +49,68 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Copyrights** | Protect creative works like books, music, software | Grants exclusive rights to reproduce, distribute, or display |
 | **Trade Secrets** | Protect confidential business information | Prevents disclosure of proprietary methods, formulas, or processes |
 
-5. Security goal
+5. Security Goal — The **CIA Triad**  
 
-| Term        | Definition | Functional Use |
-|-------------|------------|----------------|
-| **C** |  |  |
-| **I** |  |  |
-| **A** |  |  |
+| Term | Definition | Functional Use |
+|------|-------------|----------------|
+| **Confidentiality (C)** | Ensures information is accessible only to authorized individuals | Protects against unauthorized disclosure |
+| **Integrity (I)** | Ensures accuracy and completeness of data | Prevents unauthorized modification |
+| **Availability (A)** | Ensures reliable and timely access to data and systems | Prevents downtime and denial-of-service |
 
-
-
-## STRIDE model
+---
 
 
-## RMF phase
+## STRIDE Model  
+Used for **threat modeling** to identify security risks:
 
-### Phase 1
-### Phase 2
-### Phase 3
-### Phase 4
-### Phase 5
-### Phase 6
+| Category | Description | Example |
+|-----------|-------------|----------|
+| **S** – Spoofing | Pretending to be someone else | Fake login or identity |
+| **T** – Tampering | Modifying data or code | Changing parameters in transit |
+| **R** – Repudiation | Denying actions without evidence | Lack of logs or audit trails |
+| **I** – Information Disclosure | Unauthorized access to data | Data leak or eavesdropping |
+| **D** – Denial of Service | Disrupting system availability | Flooding or resource exhaustion |
+| **E** – Elevation of Privilege | Gaining unauthorized access rights | Privilege escalation attack |
 
-## DREAD risk rating system
+
+---
+
+## RMF (Risk Management Framework) Phases  
+
+| Phase | Description |
+|-------|-------------|
+| **1. Categorize** | Determine system and data sensitivity based on impact (FIPS 199) |
+| **2. Select** | Choose baseline security controls (NIST SP 800-53) |
+| **3. Implement** | Apply the selected security controls |
+| **4. Assess** | Evaluate effectiveness through testing or audit |
+| **5. Authorize** | Management accepts residual risk and grants operation approval |
+| **6. Monitor** | Continuously track control performance and emerging risks |
+
+---
+
+## DREAD Risk Rating System  
+Used to **prioritize and rate risk** by scoring each factor (1–10):
+
+| Category | Description |
+|-----------|-------------|
+| **Damage Potential** | How severe would the damage be? |
+| **Reproducibility** | How easily can the attack be reproduced? |
+| **Exploitability** | How easy is it to exploit the vulnerability? |
+| **Affected Users** | How many users would be impacted? |
+| **Discoverability** | How easy is it to discover the vulnerability? |
+
+> Total Risk = (D + R + E + A + D) / 5
+
+---
 
 
-## security control assessment (SCA)
-In the session 1.10 
+## Security Control Assessment (SCA)
+In the context of **1.10**, the SCA evaluates whether implemented security controls:  
+- Are **properly implemented**,  
+- **Operate as intended**, and  
+- **Produce the desired security outcomes**.
+
+---
 
 ## Key Regulations & Standards
 
