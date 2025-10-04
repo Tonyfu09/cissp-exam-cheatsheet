@@ -1,6 +1,6 @@
 # CISSP Quick Notes & Scenarios
 
-## Purpose
+## 🎯 Purpose
 This repository is created to capture **highlights and quick notes** for CISSP preparation.  
 The goal is to:
 - Summarize **important points** from each domain
@@ -11,7 +11,7 @@ These notes are not a replacement for official materials, but a **study aid** to
 
 ---
 
-## CISSP Exam Domain Weights
+## 📘 CISSP Exam Domain Weights
 
 | Domain | Description | Weight |
 |--------|-------------|--------|
@@ -34,7 +34,7 @@ These notes are not a replacement for official materials, but a **study aid** to
 
 ---
 
-## Exam Details  
+## 🧩 Exam Details   
 - Total questions: 125–175 (adaptive CAT exam)  
 - Duration: 4 hours  
 - Passing score: 700 out of 1000 (≈70%)
