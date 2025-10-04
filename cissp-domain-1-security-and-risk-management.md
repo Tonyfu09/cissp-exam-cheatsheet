@@ -8,6 +8,9 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 
 ##1.3 Evaluate and apply security governance principles
+The asset owner
+The custodian
+The user
 
 ---
 
