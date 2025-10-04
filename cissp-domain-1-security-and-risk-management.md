@@ -19,6 +19,8 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **ARO** (Annualized Rate of Occurrence) | Estimated frequency of an incident per year | Helps predict likelihood of risk |
 | **EF** (Exposure Factor)             | Percentage of asset value lost due to incident | Shows proportional damage to asset |
 
+---
+
 2. Principle that for exercise in a particular situation to avoid causing harm to others, serving as the standard for determining negligence in legal case
 
 | Term        | Definition | Functional Use |
@@ -26,6 +28,7 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Due Care** | Acting responsibly to avoid causing harm to others (the “prudent person” rule) | Demonstrates that reasonable protective measures were taken |
 | **Due Diligence** | Ongoing process of ensuring policies, procedures, and controls are maintained | Shows continuous monitoring and oversight of risks |
 
+---
 
 3. Metrics for reducing risk  
 
@@ -49,6 +52,8 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Copyrights** | Protect creative works like books, music, software | Grants exclusive rights to reproduce, distribute, or display |
 | **Trade Secrets** | Protect confidential business information | Prevents disclosure of proprietary methods, formulas, or processes |
 
+---
+
 5. Security Goal — The **CIA Triad**  
 
 | Term | Definition | Functional Use |
@@ -58,7 +63,6 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 | **Availability (A)** | Ensures reliable and timely access to data and systems | Prevents downtime and denial-of-service |
 
 ---
-
 
 ## STRIDE Model  
 Used for **threat modeling** to identify security risks:
@@ -71,7 +75,6 @@ Used for **threat modeling** to identify security risks:
 | **I** – Information Disclosure | Unauthorized access to data | Data leak or eavesdropping |
 | **D** – Denial of Service | Disrupting system availability | Flooding or resource exhaustion |
 | **E** – Elevation of Privilege | Gaining unauthorized access rights | Privilege escalation attack |
-
 
 ---
 
@@ -102,7 +105,6 @@ Used to **prioritize and rate risk** by scoring each factor (1–10):
 > Total Risk = (D + R + E + A + D) / 5
 
 ---
-
 
 ## Security Control Assessment (SCA)
 In the context of **1.10**, the SCA evaluates whether implemented security controls:  
@@ -155,6 +157,8 @@ In the context of **1.10**, the SCA evaluates whether implemented security contr
 ---
 
 ### Children's Online Privacy Protection Act (COPPA)
+- Protects **children under 13** from data collection without parental consent.  
+- **Penalties**: Civil penalties up to **$50,120 per violation** (as of 2024).  
 
 ---
 
