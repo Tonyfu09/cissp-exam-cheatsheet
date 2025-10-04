@@ -6,6 +6,8 @@
 
 magnetic tapes
 
+7.7 Operate and maintain detective and preventative measures
+Stateful inspection
 
 7.14 Implement and manage physical security
 A PIDAS (perimeter intrusion detection and assessment system) is a fence system that has two or three fences used in concert to optimize security.
