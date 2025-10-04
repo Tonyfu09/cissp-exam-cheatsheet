@@ -53,4 +53,8 @@ RADIUS
 
 passphrase
 
+5.2 Manage Identification and authentication of people devices, and services
+Biometrics are authentication factors.
+
+
 
