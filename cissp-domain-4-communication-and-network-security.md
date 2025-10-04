@@ -11,3 +11,9 @@ It covers principles like **network protocols, secure network components, transm
 ---
 
 ## Scenario List  
+
+
+
+## 4.1 Assess and implement secure design principles in network architectures
+Low Earth orbit (LEO) satellite internet service will be the best option in this scenario
+Geostationary orbit (GEO) satellite internet service would offer slower throughput with higher latency compared to LEO
