@@ -56,5 +56,7 @@ passphrase
 5.2 Manage Identification and authentication of people devices, and services
 Biometrics are authentication factors.
 
+5.5 Manage the identity and access provisioning lifecycle
+Privilege escalation
 
 
