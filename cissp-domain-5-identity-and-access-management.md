@@ -6,6 +6,16 @@ It covers principles like **identification, authentication, authorization, and a
 - **Enforce least privilege and separation of duties** with proper authorization  
 - **Control and monitor access** using discretionary, mandatory, and role-based models  
 - **Support compliance** with organizational security policies and regulatory requirements
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md at main · Tonyfu09/cissp-exam-cheatsheet
+ 
+
+
+## 5.2 Manage identification and authentication of people, devices, and services
+Retina, Iris, Fingerprints
+
 
 ---
 
