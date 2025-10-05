@@ -8,6 +8,8 @@ It covers principles like **security models, architecture frameworks, cryptograp
 
 ## 3.1 Research, implement and manage engineering processes using secure design principles
 
+## 3.7 Understand methods of cryptanalytic attacks
+
 ---
 
 ## Scenario List
