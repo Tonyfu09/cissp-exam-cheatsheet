@@ -7,10 +7,17 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - Maintain ethical conduct
 
 
-##1.3 Evaluate and apply security governance principles
+## 1.3 Evaluate and apply security governance principles
 The asset owner
 The custodian
 The user
+
+## 1.6 Understand requirements for investigation types 
+administrative
+criminal
+civil
+regulatory
+industry standards
 
 ---
 
