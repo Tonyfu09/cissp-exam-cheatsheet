@@ -16,6 +16,8 @@ Waterfall method
 
 Spiral model
 
+## 6.3 Collect security process data (e.g., technical and administrative)
+
 ## BIA Steps
 In section 6.3 Collect security process data
 
