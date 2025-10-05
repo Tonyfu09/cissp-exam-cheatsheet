@@ -6,6 +6,8 @@ It covers principles like **security models, architecture frameworks, cryptograp
 - **Ensure systems are resilient** against attacks and vulnerabilities  
 - **Support compliance** with organizational policies, laws, and regulations
 
+## 3.1 Research, implement and manage engineering processes using secure design principles
+
 ---
 
 ## Scenario List
@@ -23,6 +25,8 @@ Two-person control, also known as the two-person rule or two-person integrity, i
 
 
 encryption algorithm modes
+
+Privacy by Design (PbD) 
 
 
 Understand methods of cryptanalytic attacks
