@@ -16,6 +16,10 @@ Waterfall method
 
 Spiral model
 
+- Synthetic transactions are scripted transactions with known expected results.
+
+
+
 ## 6.3 Collect security process data (e.g., technical and administrative)
 
 ## BIA Steps
