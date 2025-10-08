@@ -19,6 +19,8 @@ civil
 regulatory
 industry standards
 
+thrill attacks includes Bragging rights, Pride of conquering a secure system.
+
 ---
 
 ## Scenario List  
