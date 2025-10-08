@@ -32,3 +32,4 @@ Misuse case testing, Synthetic transactions....
 ## BIA Steps
 In section 6.3 Collect security process data
 
+- Time to remediate a vulnerability is a commonly used key performance indicator for security teams.
