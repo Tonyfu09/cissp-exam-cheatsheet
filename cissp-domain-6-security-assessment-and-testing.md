@@ -18,6 +18,7 @@ Spiral model
 
 - Synthetic transactions are scripted transactions with known expected results.
 
+Misuse case testing, Synthetic transactions....
 
 
 ## 6.3 Collect security process data (e.g., technical and administrative)
