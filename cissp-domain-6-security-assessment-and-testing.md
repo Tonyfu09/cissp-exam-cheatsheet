@@ -6,6 +6,12 @@
 
 ---
 
+## 6.1 Design and validate assessment, test, and audit strategies
+
+ITIL
+
+---
+
 ## 6.2 Conduct security control testing
 Fagan inspection
 six formal steps of planning, overview, preparation, inspection, rework, and follow-up to conduct a formal code review process.
