@@ -36,6 +36,8 @@ A security team uses **synthetic transactions** to test the performance and reli
 - **Audit Strategy:** Ensures compliance with policies, procedures, and regulatory requirements.  
 - **Testing Strategy:** Validates security control effectiveness and identifies potential weaknesses.
 
+SOC 1 engagements assess the organization's controls that might impact the accuracy of financial reporting. SOC 2 and 3 engagements extend into controls protecting confidentiality, integrity, and availability more generally.
+
 ---
 
 ## 6.2 Conduct Security Control Testing
