@@ -12,3 +12,9 @@ Integrated Product Teams (IPTs)
 phase of the IDEAL model
 
 
+## 8.2 Identify and apply security controls in software development ecosystems
+Proactive monitoring
+Passive 
+Reactive
+Replay
+
