@@ -10,6 +10,8 @@ magnetic tapes
 
 ## 7.7 Operate and maintain detective and preventative measures
 Stateful inspection
+Honeynet
+Honeypot
 
 ## 7.12 Test Disaster Recovery Plans (DRP)
 Checklist review
