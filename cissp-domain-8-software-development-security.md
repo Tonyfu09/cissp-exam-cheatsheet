@@ -18,3 +18,4 @@ Passive
 Reactive
 Replay
 
+cardinality of a table
