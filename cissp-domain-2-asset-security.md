@@ -59,6 +59,8 @@ The **Data Lifecycle** includes the stages from creation to destruction:
 | **6. Destruction** | Secure deletion or disposal | Shredding disks, degaussing |
 | **Note:** | Unused space in a cluster can retain residual data; proper sanitization is essential. |  |
 
+Spare sectors, bad sectors, and space provided for wear leveling on SSDs
+
 ---
 
 ## 2.5 Apply Data Security Controls  
