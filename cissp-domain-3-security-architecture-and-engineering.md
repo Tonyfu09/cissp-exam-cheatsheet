@@ -36,9 +36,6 @@ It covers principles like **security models, architecture frameworks, cryptograp
 
 ---
 
-
----
-
 ## Scenario List
 
 Data sovereignty
