@@ -7,25 +7,25 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - Maintain ethical conduct
 
 
+## 1.1 Security Governance Principles
+- **Asset Owner** – Responsible for the classification, control, and protection of assets.  
+- **Custodian** – Implements the protection and maintenance of assets on behalf of the owner.  
+- **User** – Uses assets appropriately and follows security policies.  
+
 ## 1.3 Evaluate and apply security governance principles
-The asset owner
-The custodian
-The user
-
-Divestiture event
-- Sanitize Assets
-- Storage media should be removed and destroyed
-- Employees released from duty need to be debriefed
-
+### Divestiture Event Considerations
+- **Sanitize assets** before disposal or transfer.  
+- **Remove and destroy storage media** containing sensitive data.  
+- **Debrief employees** released from duty to ensure no residual access or knowledge risks.
 
 ## 1.6 Understand requirements for investigation types 
-administrative
-criminal
-civil
-regulatory
-industry standards
+- **Administrative** – Investigates internal policy violations.  
+- **Criminal** – Investigates violations of criminal law.  
+- **Civil** – Investigates disputes between parties in civil court.  
+- **Regulatory** – Investigates compliance with industry or government regulations.  
+- **Industry Standards** – Investigates deviations from best practices. 
 
-thrill attacks includes Bragging rights, Pride of conquering a secure system.
+- **Thrill Attacks** – Attacks motivated by **bragging rights** or the **pride of conquering a secure system**.  
 
 ---
 
