@@ -6,11 +6,36 @@ It covers principles like **security models, architecture frameworks, cryptograp
 - **Ensure systems are resilient** against attacks and vulnerabilities  
 - **Support compliance** with organizational policies, laws, and regulations
 
-## 3.1 Research, implement and manage engineering processes using secure design principles
+---
+
+## 3.1 Research, implement, and manage engineering processes using secure design principles
+- **Security by Design** – Embed security from the start of system development  
+- **Privacy by Design (PbD)** – Incorporate privacy and data protection proactively  
+- **Zero Trust Model** – Assume all devices, users, and networks are untrusted by default  
+- **Segregation of Duties / Two-Person Control** – Require at least two authorized individuals to perform critical operations to reduce risk of fraud or error
+
+---
 
 ## 3.6 Select and determine cryptographic solutions
+- **Encryption algorithm modes**:
+  - **ECB (Electronic Codebook)** – Simple but vulnerable to pattern analysis  
+  - **CBC (Cipher Block Chaining)** – Stronger; each block depends on the previous block  
+  - **GCM (Galois/Counter Mode)** – Provides confidentiality and integrity
+- **Digital Signature Standard (DSS)** – Approves three encryption algorithms for digital signatures:
+  1. **DSA (Digital Signature Algorithm)**  
+  2. **RSA**  
+  3. **ECDSA (Elliptic Curve Digital Signature Algorithm)**  
+
+---
 
 ## 3.7 Understand methods of cryptanalytic attacks
+- **Side-Channel Attack** – Exploits physical implementation (timing, power consumption, EM leaks)  
+- **Brute-Force Attack** – Exhaustively tries all possible keys  
+- **Timing Attack** – Measures execution time to infer secrets  
+- **Fault Injection Attack** – Intentionally induces errors to reveal information  
+
+---
+
 
 ---
 
