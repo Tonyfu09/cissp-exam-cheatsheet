@@ -12,6 +12,12 @@ The asset owner
 The custodian
 The user
 
+Divestiture event
+- Sanitize Assets
+- Storage media should be removed and destroyed
+- Employees released from duty need to be debriefed
+
+
 ## 1.6 Understand requirements for investigation types 
 administrative
 criminal
