@@ -13,6 +13,9 @@ Stateful inspection
 Honeynet
 Honeypot
 
+## 7.11 Implement Disaster Recovery (DR) processes
+Software escrow agreements place the application source code in the hands of an independent third party, 
+
 ## 7.12 Test Disaster Recovery Plans (DRP)
 Checklist review
 Tabletop exercise
