@@ -15,6 +15,7 @@ Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md a
 
 ## 5.2 Manage identification and authentication of people, devices, and services
 Retina, Iris, Fingerprints
+Asynchronous, Synchronous
 
 ## 5.4 Implement and manage authorization mechanisms
 ABAC, RBAC, MAC, DAC
