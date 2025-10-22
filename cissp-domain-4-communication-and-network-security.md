@@ -22,3 +22,6 @@ DNSSEC uses certificates to perform mutual authentication between DNS servers, a
 5G networks
 Mutual authentication capabilities
 Enhanced subscriber identity protection
+
+What mades SAN inability to recover file.
+It could be the depulication. As multiple copies of a file with a pointer to only one copy.
