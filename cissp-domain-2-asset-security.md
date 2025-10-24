@@ -57,6 +57,7 @@ The **Data Lifecycle** includes the stages from creation to destruction:
 | **4. Sharing / Distribution** | Data transmitted internally or externally | Emailing encrypted files |
 | **5. Archival** | Long-term storage for compliance or future reference | Legal retention storage |
 | **6. Destruction** | Secure deletion or disposal | Shredding disks, degaussing |
+| **7. Disintegration** | | | 
 | **Note:** | Unused space in a cluster can retain residual data; proper sanitization is essential. |  |
 
 Spare sectors, bad sectors, and space provided for wear leveling on SSDs
