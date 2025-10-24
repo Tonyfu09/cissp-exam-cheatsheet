@@ -6,7 +6,8 @@
 
 magnetic tapes
 
-
+## 7.6 Conduct incident management
+remediation stage -  A root cause analysis attempts to discover the source of the problem.
 
 ## 7.7 Operate and maintain detective and preventative measures
 Stateful inspection
