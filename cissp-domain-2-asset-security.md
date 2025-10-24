@@ -91,6 +91,7 @@ Key compliance areas may include:
 | **Data Encryption** | Protect data during transmission and storage | Use TLS for web traffic |
 | **Anonymization** | Remove identifiers to prevent tracing back to individuals | Removing PII before analytics |
 | **Pseudonymization** | Replace identifiers with pseudonyms | User_001 instead of real name |
+| **Randomized masking** |
 
 ---
 
