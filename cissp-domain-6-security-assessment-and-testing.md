@@ -72,6 +72,9 @@ A **structured software inspection process** that ensures code quality and defec
 | **Interface Testing** | Validates communication between modules. | API fuzzing and endpoint validation. |
 | **Parallel Testing** | Compare new and old systems using same input/output to confirm consistency. | Migrating legacy app to new cloud platform. |
 
+### Security Control Tools
+Metasploit
+
 ---
 
 ## 6.3 Collect Security Process Data (Technical and Administrative)
