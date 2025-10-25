@@ -18,6 +18,11 @@ It covers principles like **security models, architecture frameworks, cryptograp
 
 ---
 
+## 3.3 Select controls based upon systems security requirements
+Primary distinction of the current Common Criteria (CC)
+
+---
+
 ## 3.6 Select and determine cryptographic solutions
 - **Encryption algorithm modes**:
   - **ECB (Electronic Codebook)** – Simple but vulnerable to pattern analysis  
