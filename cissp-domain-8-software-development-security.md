@@ -14,6 +14,7 @@ Rapid Application Development
 Waterfall
 Spiral
 Agile
+Integrated product team
 
 ## 8.2 Identify and apply security controls in software development ecosystems
 Proactive monitoring
