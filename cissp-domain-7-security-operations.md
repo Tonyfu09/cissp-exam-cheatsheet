@@ -5,6 +5,8 @@
 ## Scenario List  
 
 magnetic tapes
+Locard's principle
+Kerckhoff's principle
 
 ## 7.6 Conduct incident management
 remediation stage -  A root cause analysis attempts to discover the source of the problem.
