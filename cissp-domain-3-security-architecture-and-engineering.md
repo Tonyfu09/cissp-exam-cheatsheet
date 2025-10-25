@@ -43,6 +43,11 @@ Primary distinction of the current Common Criteria (CC)
 
 ---
 
+## 3.9 Design site and facility security controls
+TEMPEST,  Aviod Attack
+
+---
+
 ## Scenario List
 
 Data sovereignty
