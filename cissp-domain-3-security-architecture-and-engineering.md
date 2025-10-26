@@ -41,6 +41,11 @@ Primary distinction of the current Common Criteria (CC)
 - **Timing Attack** – Measures execution time to infer secrets  
 - **Fault Injection Attack** – Intentionally induces errors to reveal information  
 
+Ciphertext only
+Chosen plaintext
+Known plaintext
+Fault injection
+
 ---
 
 ## 3.9 Design site and facility security controls
