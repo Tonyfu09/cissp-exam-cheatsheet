@@ -23,6 +23,14 @@ Primary distinction of the current Common Criteria (CC)
 
 ---
 
+## 3.5 Assess and mitigate the vulnerabilities of security architectures, designs, and solution elements
+Polyinstantiation
+Aggregation
+Provisioning
+Referential integrity
+
+---
+
 ## 3.6 Select and determine cryptographic solutions
 - **Encryption algorithm modes**:
   - **ECB (Electronic Codebook)** – Simple but vulnerable to pattern analysis  
