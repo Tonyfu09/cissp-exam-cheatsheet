@@ -22,6 +22,9 @@ Asynchronous, Synchronous
 ## 5.4 Implement and manage authorization mechanisms
 ABAC, RBAC, MAC, DAC
 
+## 5.6 Implement authentication system
+SAML support signal-on
+
 ---
 
 ## Scenario List
