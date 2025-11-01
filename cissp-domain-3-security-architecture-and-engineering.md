@@ -41,6 +41,8 @@ Referential integrity
   2. **RSA**  
   3. **ECDSA (Elliptic Curve Digital Signature Algorithm)**  
 
+- **key escrow system**:
+
 ---
 
 ## 3.7 Understand methods of cryptanalytic attacks
