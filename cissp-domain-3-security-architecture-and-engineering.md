@@ -18,6 +18,13 @@ It covers principles like **security models, architecture frameworks, cryptograp
 
 ---
 
+## 3.2 Understand the fundamental concepts of security models
+Biba
+Star Model
+Bell-LaPadula
+
+---
+
 ## 3.3 Select controls based upon systems security requirements
 Primary distinction of the current Common Criteria (CC)
 
