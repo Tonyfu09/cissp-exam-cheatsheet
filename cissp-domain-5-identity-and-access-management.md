@@ -23,6 +23,10 @@ Accountability, Audit trails
 ## 5.4 Implement and manage authorization mechanisms
 ABAC, RBAC, MAC, DAC
 
+## 5.5 Manage the identity and access provisioning lifecycle
+Discretionary account provisioning
+Workflow-based account provisioning
+
 ## 5.6 Implement authentication system
 SAML support signal-on
 
