@@ -10,6 +10,7 @@ Kerckhoff's principle
 
 ## 7.1 Understand and comply with investigations
 Electronic vaulting automatically backs up data to a secure site where storage professionals at the vaulting company's site handle the details.
+Write blocker
 
 ## 7.6 Conduct incident management
 remediation stage -  A root cause analysis attempts to discover the source of the problem.
