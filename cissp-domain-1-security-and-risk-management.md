@@ -28,6 +28,10 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 - **Thrill Attacks** – Attacks motivated by **bragging rights** or the **pride of conquering a secure system**.  
 
+## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
+ quantitative portion of the priority identification - monetary 
+ qualitative - assessment
+
 ---
 
 ## Scenario List  
