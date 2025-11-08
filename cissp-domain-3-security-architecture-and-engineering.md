@@ -16,6 +16,8 @@ It covers principles like **security models, architecture frameworks, cryptograp
 - **Zero Trust Model** – Assume all devices, users, and networks are untrusted by default  
 - **Segregation of Duties / Two-Person Control** – Require at least two authorized individuals to perform critical operations to reduce risk of fraud or error
 
+Threat modeling forcus on attackers, assets and software.
+
 ---
 
 ## 3.2 Understand the fundamental concepts of security models
