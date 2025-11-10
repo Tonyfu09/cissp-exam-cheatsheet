@@ -17,15 +17,23 @@ Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md a
 
 ## 5.2 Manage identification and authentication of people, devices, and services
 Retina, Iris, Fingerprints
+
 Asynchronous, Synchronous
+
 Accountability, Audit trails
+
+Biometrics are authentication factors.
+
 
 ## 5.4 Implement and manage authorization mechanisms
 ABAC, RBAC, MAC, DAC
 
 ## 5.5 Manage the identity and access provisioning lifecycle
 Discretionary account provisioning
+
 Workflow-based account provisioning
+
+Privilege escalation
 
 ## 5.6 Implement authentication system
 SAML support signal-on
@@ -76,10 +84,9 @@ RADIUS
 
 passphrase
 
-5.2 Manage Identification and authentication of people devices, and services
-Biometrics are authentication factors.
 
-5.5 Manage the identity and access provisioning lifecycle
-Privilege escalation
+fingerprint minutiae
+Ridges, bifurcations, and whorls
+
 
 
