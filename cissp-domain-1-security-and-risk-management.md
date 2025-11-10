@@ -34,6 +34,12 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 ---
 
+## 1.12 Apply Supply Chain Risk Management (SCRM) concepts
+
+Supply Chain Risk Management (SCRM) concepts
+
+---
+
 ## Scenario List  
 
 1. When conducting a **risk assessment**, the team should discuss these metrics: **ALE, SLE, ARO, EF**.  
