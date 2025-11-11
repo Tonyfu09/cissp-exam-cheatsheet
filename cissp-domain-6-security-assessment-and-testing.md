@@ -91,6 +91,8 @@ Collecting security process data provides visibility into:
 | **Technical** | Vulnerability scans, IDS/IPS alerts, SIEM logs, patch status |
 | **Administrative** | Policy compliance audits, awareness training completion, access review reports |
 
+backup verification process 
+
 ---
 
 ## Business Impact Analysis (BIA) Steps
