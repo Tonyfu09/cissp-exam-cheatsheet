@@ -75,6 +75,9 @@ A **structured software inspection process** that ensures code quality and defec
 ### Security Control Tools
 Metasploit
 
+test coverage analysis technique
+Branch coverage
+
 ---
 
 ## 6.3 Collect Security Process Data (Technical and Administrative)
