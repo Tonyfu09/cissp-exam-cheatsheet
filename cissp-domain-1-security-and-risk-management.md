@@ -13,11 +13,41 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - **Custodian** – Implements the protection and maintenance of assets on behalf of the owner.  
 - **User** – Uses assets appropriately and follows security policies.  
 
+## Organizational Processes
+- **Mission Statement** – Purpose and long-term direction.  
+- **Strategic Plan (3–5 years)** – High-level security strategy (e.g., Zero Trust).  
+- **Tactical Plan (1–2 years)** – Medium-term projects (MFA, SIEM).  
+- **Operational Plan** – Daily tasks (patching, monitoring, IR).
+
 ## 1.3 Evaluate and apply security governance principles
 ### Divestiture Event Considerations
 - **Sanitize assets** before disposal or transfer.  
 - **Remove and destroy storage media** containing sensitive data.  
 - **Debrief employees** released from duty to ensure no residual access or knowledge risks.
+
+## 1.4 Compliance
+- Laws  
+- Regulations  
+- Standards  
+- Internal policies  
+
+## 1.5 Legal and Regulatory Issues
+
+### Types of Law
+- **Criminal** – Harm to society (hacking, fraud)  
+- **Civil** – Disputes between parties (negligence)  
+- **Administrative** – Government regulations  
+
+### Key Concepts
+- **Liability** – Responsibility for damages  
+- **Burden of Proof:**  
+  - Criminal: *Beyond a reasonable doubt*  
+  - Civil: *Preponderance of evidence*  
+
+### Evidence Handling
+- Chain of custody  
+- Admissibility  
+- Hearsay exceptions (business records)  
 
 ## 1.6 Understand requirements for investigation types 
 - **Administrative** – Investigates internal policy violations.  
@@ -28,15 +58,113 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 - **Thrill Attacks** – Attacks motivated by **bragging rights** or the **pride of conquering a secure system**.  
 
-## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
- quantitative portion of the priority identification - monetary 
- qualitative - assessment
+## 1.7 Risk Management Concepts
 
----
+### Risk Formulas
+- **Risk** = Threat × Vulnerability × Impact  
+- **Residual Risk** = Risk after controls  
+- **Total Risk** = Asset Value × Threat × Vulnerability  
+
+### Control Categories
+| Category | Examples |
+|----------|----------|
+| **Administrative** | Policies, background checks |
+| **Technical** | Firewalls, encryption |
+| **Physical** | Guards, locks, CCTV |
+
+### Control Types
+| Type | Purpose |
+|------|---------|
+| **Preventive** | Stop incidents (MFA) |
+| **Detective** | Identify incidents (IDS) |
+| **Corrective** | Fix issues (patching) |
+| **Deterrent** | Deter adversaries |
+| **Compensating** | Alternative controls |
+
+
+## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
+- **Quantitative** – ALE, SLE, ARO  
+- **Qualitative** – High/Medium/Low ratings  
+
+## 1.9 Risk-Based Management Concepts
+
+### Key Concepts
+- **Risk Appetite** – Amount of acceptable risk  
+- **Risk Tolerance** – Boundaries on risk levels  
+- **Management** owns risk  
+- **Security** advises on controls  
+
+## 1.10 Security Control Assessment (SCA)
+
+Assess whether controls:
+
+- Are implemented correctly  
+- Operate as intended  
+- Meet security requirements  
+
+### Assessment Methods
+- **Examine** – Documents, policies  
+- **Interview** – Personnel  
+- **Test** – Technical validation
+
+## 1.11 Threat Modeling Concepts
+
+### Models
+- **STRIDE**  
+- **PASTA** – Risk-focused  
+- **OCTAVE** – Organizational  
+- **VAST** – Large-scale  
+- **Attack Trees** – Visual attack paths  
+
+### Process
+1. Identify assets  
+2. Identify threats  
+3. Identify vulnerabilities  
+4. Map controls  
 
 ## 1.12 Apply Supply Chain Risk Management (SCRM) concepts
 
 Supply Chain Risk Management (SCRM) concepts
+- Meet security requirements  
+- Perform background checks  
+- Provide secure hardware/software  
+- Maintain redundancy  
+- Manage third-party risks
+
+## 1.13 Policies, Standards, Procedures, Guidelines
+
+### Policy Components
+- Purpose  
+- Scope  
+- Roles & responsibilities  
+- Enforcement  
+- Exceptions  
+- Review cycles  
+
+### Lifecycle
+1. Develop  
+2. Approve  
+3. Publish  
+4. Train  
+5. Enforce  
+6. Review/update  
+
+## 1.14 Personnel Security & Risk
+
+### Hiring
+- Background checks  
+- Identity & reference verification  
+
+### During Employment
+- Mandatory vacations  
+- Job rotation  
+- Separation of duties  
+- Training & awareness  
+
+### Termination
+- Immediate access removal  
+- Exit interview  
+- Asset retrieval  
 
 ---
 
