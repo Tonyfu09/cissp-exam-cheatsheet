@@ -24,6 +24,7 @@ Threat modeling forcus on attackers, assets and software.
 Biba
 Star Model
 Bell-LaPadula
+Brewer-Nash
 
 ---
 
