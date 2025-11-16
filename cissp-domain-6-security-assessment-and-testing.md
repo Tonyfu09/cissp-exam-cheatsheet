@@ -130,3 +130,7 @@ Domain 6 emphasizes **continuous assessment and validation** of security program
 - Risks are identified, measured, and mitigated in a timely manner.  
 
 Effective testing and data collection help organizations make **evidence-based decisions** and continuously improve their security posture.
+
+---
+
+> 🧩 **Tip:** For the exam, remember —
