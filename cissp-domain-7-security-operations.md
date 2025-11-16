@@ -35,3 +35,7 @@ This reduces the nuisance alarm rate (NAR) or false positives. Crime Prevention 
 
 - ConfigMgr
 - A hoax is a social engineering attack that is attempting to trick a user into taking actions that will harm them through the use of fear that not taking action would actually cause harm.
+
+---
+
+> 🧩 **Tip:** For the exam, remember —
