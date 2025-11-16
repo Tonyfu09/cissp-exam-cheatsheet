@@ -27,3 +27,6 @@ cardinality of a table
 ## 8.5 Define and apply secure coding guidelines and standards
 Aggregate
 
+---
+
+> 🧩 **Tip:** For the exam, remember —
