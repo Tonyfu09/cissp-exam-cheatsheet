@@ -88,5 +88,7 @@ passphrase
 fingerprint minutiae
 Ridges, bifurcations, and whorls
 
+---
 
+> 🧩 **Tip:** For the exam, remember —
 
