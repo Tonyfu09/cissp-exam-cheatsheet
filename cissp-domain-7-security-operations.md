@@ -38,4 +38,8 @@ This reduces the nuisance alarm rate (NAR) or false positives. Crime Prevention 
 
 ---
 
+- What type of alternate processing facility ......?
+
+---
+
 > 🧩 **Tip:** For the exam, remember —
