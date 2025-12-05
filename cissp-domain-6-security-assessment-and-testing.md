@@ -30,6 +30,7 @@ A security team uses **synthetic transactions** to test the performance and reli
 | **ITIL (Information Technology Infrastructure Library)** | Service management | Provides best practices for aligning IT services with business needs, including change, incident, and problem management. |
 | **COBIT (Control Objectives for Information and Related Technologies)** | IT governance | Defines control objectives for aligning IT processes with business goals and risk management. |
 | **ISO/IEC 27001** | Information Security Management System (ISMS) | Establishes, implements, monitors, and improves security processes. |
+SSAE 18 Audit Standard
 
 ### Key Concepts
 - **Assessment Strategy:** Defines what to assess (controls, systems, processes) and how to assess them.  
