@@ -76,69 +76,69 @@ Preaction
 
 ## Scenario List
 
-Q:1️⃣ Data Sovereignty
+Q1 Data Sovereignty
 A global organization wants to migrate HR data to a cloud provider. The data includes employee personal information from the EU. Which factor must the security architect consider first to ensure compliance with data sovereignty requirements?
 
-Q: 2️⃣ VM Escape Protection 
+Q2 VM Escape Protection 
 A security architect is designing a virtualized environment for a financial institution. To reduce the risk of VM escape attacks, which control is MOST appropriate to implement?
 
 
-Q:3️⃣ Guest OS Malware Scanning
+Q3 Guest OS Malware Scanning
 A company needs to detect malware within virtual machines without relying solely on agents installed inside the guest OS. Which security approach BEST meets this requirement?
 
 
 
-Q:4️⃣ Containerization
+Q4 Containerization
 A development team is transitioning from traditional VMs to containers. What is the PRIMARY security advantage of using containerization in this scenario?
 
 
 
-Q:5️⃣ Two-Person Control / Two-Person Integrity
+Q5 Two-Person Control / Two-Person Integrity
 A critical operation in a nuclear facility must never be performed by a single administrator. Which control BEST enforces this requirement?
 
 
 
-Q:6️⃣ Encryption Algorithm Modes
+Q6 Encryption Algorithm Modes
 A security engineer must choose an encryption mode for protecting large blocks of data. Which mode should be avoided due to pattern leakage when encrypting repetitive plaintext?
 
 
 
-Q:7️⃣ Privacy by Design (PbD)
+Q7 Privacy by Design (PbD)
 A company is planning a new health-tracking mobile application. To incorporate Privacy by Design, which action should the security team take FIRST?
 
 
 
-Q:8️⃣ Methods of Cryptanalytic Attacks
+Q8 Methods of Cryptanalytic Attacks
 An attacker collects multiple plaintext–ciphertext pairs of the same message encrypted with different keys. Which type of cryptanalytic attack is being performed?
 
 
-Q:9️⃣ Side-Channel Attack
+Q9 Side-Channel Attack
 
 A threat actor measures CPU power fluctuations to infer encryption key material. What type of attack does this represent?
 
 
 
-Q:🔟 Brute-Force Attack
+Q10 Brute-Force Attack
 Which attack method attempts every possible key or password combination without leveraging prior knowledge of the system?
 
 
 
-Q:1️⃣1️⃣ Timing Attack
+Q11 Timing Attack
 An attacker observes slight differences in system response time during cryptographic operations to guess secret keys. What type of attack is this?
 
 
 
-Q:1️⃣2️⃣ Fault Injection Attack
+Q12 Fault Injection Attack
 A hardware researcher manipulates voltage levels on a microcontroller to cause errors and extract sensitive information. Which attack method is being used?
 
 
 
-Q:1️⃣3️⃣ Zero Trust & Endpoint Proliferation
+Q13 Zero Trust & Endpoint Proliferation
 An enterprise has rapidly expanding numbers of BYOD and IoT endpoints. According to Zero Trust principles, what is the MOST important security control to implement?
 
 
 
-Q:1️⃣4️⃣ Digital Signature Standard (DSS)
+Q14 Digital Signature Standard (DSS)
 According to the U.S. Digital Signature Standard (DSS), which set of algorithms is approved for creating digital signatures?
 Data sovereignty
 
