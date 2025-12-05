@@ -76,34 +76,73 @@ Preaction
 
 ## Scenario List
 
+Q:1️⃣ Data Sovereignty
+A global organization wants to migrate HR data to a cloud provider. The data includes employee personal information from the EU. Which factor must the security architect consider first to ensure compliance with data sovereignty requirements?
+
+Q: 2️⃣ VM Escape Protection 
+A security architect is designing a virtualized environment for a financial institution. To reduce the risk of VM escape attacks, which control is MOST appropriate to implement?
+
+
+Q:3️⃣ Guest OS Malware Scanning
+A company needs to detect malware within virtual machines without relying solely on agents installed inside the guest OS. Which security approach BEST meets this requirement?
+
+
+
+Q:4️⃣ Containerization
+A development team is transitioning from traditional VMs to containers. What is the PRIMARY security advantage of using containerization in this scenario?
+
+
+
+Q:5️⃣ Two-Person Control / Two-Person Integrity
+A critical operation in a nuclear facility must never be performed by a single administrator. Which control BEST enforces this requirement?
+
+
+
+Q:6️⃣ Encryption Algorithm Modes
+A security engineer must choose an encryption mode for protecting large blocks of data. Which mode should be avoided due to pattern leakage when encrypting repetitive plaintext?
+
+
+
+Q:7️⃣ Privacy by Design (PbD)
+A company is planning a new health-tracking mobile application. To incorporate Privacy by Design, which action should the security team take FIRST?
+
+
+
+Q:8️⃣ Methods of Cryptanalytic Attacks
+An attacker collects multiple plaintext–ciphertext pairs of the same message encrypted with different keys. Which type of cryptanalytic attack is being performed?
+
+
+Q:9️⃣ Side-Channel Attack
+
+A threat actor measures CPU power fluctuations to infer encryption key material. What type of attack does this represent?
+
+
+
+Q:🔟 Brute-Force Attack
+Which attack method attempts every possible key or password combination without leveraging prior knowledge of the system?
+
+
+
+Q:1️⃣1️⃣ Timing Attack
+An attacker observes slight differences in system response time during cryptographic operations to guess secret keys. What type of attack is this?
+
+
+
+Q:1️⃣2️⃣ Fault Injection Attack
+A hardware researcher manipulates voltage levels on a microcontroller to cause errors and extract sensitive information. Which attack method is being used?
+
+
+
+Q:1️⃣3️⃣ Zero Trust & Endpoint Proliferation
+An enterprise has rapidly expanding numbers of BYOD and IoT endpoints. According to Zero Trust principles, what is the MOST important security control to implement?
+
+
+
+Q:1️⃣4️⃣ Digital Signature Standard (DSS)
+According to the U.S. Digital Signature Standard (DSS), which set of algorithms is approved for creating digital signatures?
 Data sovereignty
 
-VM escape protection
 
-Guest OS malware scanning
-
-Containerization
-
-Security Measure
-Two-person control, also known as the two-person rule or two-person integrity, is a security measure that requires at least two authorized individuals to be present and active for a specific task or to gain access to critical material to prevent a single person from acting alone
-
-
-encryption algorithm modes
-
-Privacy by Design (PbD) 
-
-
-Understand methods of cryptanalytic attacks
-- Side channel attack
-- Brute-force attack
-- Timing attack
-- Fault injection attack
-
-
-zero trust model has been the proliferation of endpoint devices
-
-
-Digital Signature Standard approves three encryption algorithms
 
 ---
 
