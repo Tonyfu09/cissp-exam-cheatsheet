@@ -23,6 +23,8 @@ Common **data classification categories** include:
 | **Critical** | Vital to organizational operations | Customer databases, authentication systems |
 | **Confidential** | Restricted to authorized individuals only | Financial reports, strategic plans |
 
+single-level security environment
+
 ---
 
 ## 2.2 Determine and Maintain Ownership  
