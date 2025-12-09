@@ -21,7 +21,7 @@ Threat modeling forcus on attackers, assets and software.
 ---
 
 ## 3.2 Understand the fundamental concepts of security models
-Biba
+Biba - Simple security property
 Star Model
 Bell-LaPadula
 Brewer-Nash
