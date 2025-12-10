@@ -79,6 +79,8 @@ Metasploit
 test coverage analysis technique
 Branch coverage
 
+Mutation testing
+
 ---
 
 ## 6.3 Collect Security Process Data (Technical and Administrative)
