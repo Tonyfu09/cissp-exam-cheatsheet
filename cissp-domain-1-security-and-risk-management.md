@@ -19,6 +19,8 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - **Tactical Plan (1–2 years)** – Medium-term projects (MFA, SIEM).  
 - **Operational Plan** – Daily tasks (patching, monitoring, IR).
 
+Risk analysis is a “point-in-time” metric, because risks constantly change, continuous review and improvement of security is required.
+
 ## 1.3 Evaluate and apply security governance principles
 ### Divestiture Event Considerations
 - **Sanitize assets** before disposal or transfer.  
