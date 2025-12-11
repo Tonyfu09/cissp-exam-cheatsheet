@@ -13,13 +13,13 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 - **Custodian** – Implements the protection and maintenance of assets on behalf of the owner.  
 - **User** – Uses assets appropriately and follows security policies.  
 
+Risk analysis is a “point-in-time” metric, because risks constantly change, continuous review and improvement of security is required.
+
 ## Organizational Processes
 - **Mission Statement** – Purpose and long-term direction.  
 - **Strategic Plan (3–5 years)** – High-level security strategy (e.g., Zero Trust).  
 - **Tactical Plan (1–2 years)** – Medium-term projects (MFA, SIEM).  
 - **Operational Plan** – Daily tasks (patching, monitoring, IR).
-
-Risk analysis is a “point-in-time” metric, because risks constantly change, continuous review and improvement of security is required.
 
 ## 1.3 Evaluate and apply security governance principles
 ### Divestiture Event Considerations
