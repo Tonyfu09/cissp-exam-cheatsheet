@@ -38,6 +38,11 @@ Privilege escalation
 ## 5.6 Implement authentication system
 SAML support signal-on
 
+fingerprint minutiae
+- Ridges
+- Bifurcations
+- Whorls
+
 ---
 
 ## Scenario List
