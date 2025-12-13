@@ -87,6 +87,8 @@ Risk analysis is a “point-in-time” metric, because risks constantly change, 
 ## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
 - **Quantitative** – ALE, SLE, ARO  
 - **Qualitative** – High/Medium/Low ratings  
+- **Redundant communications circuits** - 
+
 
 ## 1.9 Risk-Based Management Concepts
 
