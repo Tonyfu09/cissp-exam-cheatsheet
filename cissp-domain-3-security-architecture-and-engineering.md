@@ -61,10 +61,11 @@ Referential integrity
 - **Timing Attack** – Measures execution time to infer secrets  
 - **Fault Injection Attack** – Intentionally induces errors to reveal information  
 
-Ciphertext only
-Chosen plaintext
-Known plaintext
-Fault injection
+cryptanalytic attacks 
+- Ciphertext only
+- Chosen plaintext
+- Known plaintext
+- Fault injection
 
 ---
 
