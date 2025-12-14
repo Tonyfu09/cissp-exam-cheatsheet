@@ -18,6 +18,8 @@ It covers principles like **security models, architecture frameworks, cryptograp
 
 Threat modeling forcus on attackers, assets and software.
 
+defense in depth: layering, classifications, zones, realms, compartments, silos, segmentations, lattice structure, and protection rings.
+
 ---
 
 ## 3.2 Understand the fundamental concepts of security models
