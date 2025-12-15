@@ -14,6 +14,9 @@ Attach files by dragging & dropping, selecting or pasting them.
 Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md at main · Tonyfu09/cissp-exam-cheatsheet
  
 
+## 5.1 Control physical and logical access to assets
+
+
 
 ## 5.2 Manage identification and authentication of people, devices, and services
 Retina, Iris, Fingerprints
