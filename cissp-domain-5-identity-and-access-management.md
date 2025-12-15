@@ -15,38 +15,98 @@ Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md a
  
 
 ## 5.1 Control physical and logical access to assets
+- **Physical Access Controls** – Protect facilities and hardware.
+  - Guards, mantraps, turnstiles
+  - Badges, smart cards
+  - Biometrics (fingerprint, iris, retina)
+  - CCTV and monitoring systems
 
+- **Logical Access Controls** – Protect systems and data.
+  - User accounts and credentials
+  - Authentication systems
+  - Network and application access controls
 
+Access control should follow **defense in depth**, ensuring multiple layers of protection.
 
 ## 5.2 Manage identification and authentication of people, devices, and services
-Retina, Iris, Fingerprints
+- **Identification** – Claiming an identity (e.g., username, device ID).
+- **Authentication** – Proving the claimed identity.
 
-Asynchronous, Synchronous
+- **Authentication Factors**
+  - Something you know – Password, PIN
+  - Something you have – Token, smart card
+  - Something you are – Biometrics
+  - Somewhere you are – Location
+  - Something you do – Behavior
 
-Accountability, Audit trails
+- **Biometric Authentication**
+  - Retina
+  - Iris
+  - Fingerprints
+    - Ridges
+    - Bifurcations
+    - Whorls
 
-Biometrics are authentication factors.
+- **Authentication Methods**
+  - Synchronous – Time-based (e.g., TOTP)
+  - Asynchronous – Challenge–response
 
+Authentication supports **accountability** and must generate **audit trails**.
+
+## 5.3 Integrate Identity as a Third-Party Service
+
+- **Federated Identity** – Shared authentication across organizations.
+- **Identity as a Service (IDaaS)** – Cloud-based identity management.
+
+- **Common Technologies**
+  - SAML – XML-based federation and Single Sign-On (SSO)
+  - OAuth 2.0 – Authorization framework
+  - OpenID Connect (OIDC) – Authentication layer on OAuth 2.0
+
+Third-party identity integration requires proper **trust management** and **privacy controls**.
 
 ## 5.4 Implement and manage authorization mechanisms
-ABAC, RBAC, MAC, DAC
+
+Authorization determines **what an authenticated subject is allowed to do**.
+
+- **DAC (Discretionary Access Control)** – Object owner determines access.
+- **MAC (Mandatory Access Control)** – Central authority enforces security labels.
+- **RBAC (Role-Based Access Control)** – Access based on job role.
+- **ABAC (Attribute-Based Access Control)** – Access based on attributes and context.
+
+Authorization enforces **least privilege** and **separation of duties**.
 
 ## 5.5 Manage the identity and access provisioning lifecycle
-Discretionary account provisioning
 
-Workflow-based account provisioning
+- **Provisioning** – Creating accounts and assigning access.
+- **Access Modification** – Updating permissions as roles change.
+- **Privilege Escalation** – Temporary or permanent elevation.
+- **Deprovisioning** – Removing access when no longer required.
 
-Privilege escalation
+- **Provisioning Methods**
+  - Discretionary account provisioning
+  - Workflow-based provisioning (approval-driven)
+
+Poor lifecycle management leads to **privilege creep** and **orphaned accounts**.
 
 ## 5.6 Implement authentication system
-SAML support signal-on
 
-fingerprint minutiae
-- Ridges
-- Bifurcations
-- Whorls
+- **Single Sign-On (SSO)** – One authentication for multiple systems.
+- **Federated Authentication** – Shared identity across domains.
+- **Multi-Factor Authentication (MFA)** – Multiple authentication factors.
 
----
+Authentication systems must protect **credentials**, **sessions**, and **tokens**.
+
+## 5.7 Manage Access Control Monitoring and Reporting
+
+- **Authentication Logs** – Track login attempts.
+- **Authorization Logs** – Record access decisions.
+- **Privileged Access Monitoring** – Track administrative actions.
+
+Monitoring and reporting support:
+- Accountability
+- Incident detection
+- Compliance requirements
 
 ## Scenario List
 
