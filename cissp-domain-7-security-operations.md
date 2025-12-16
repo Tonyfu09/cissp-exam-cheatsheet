@@ -4,12 +4,6 @@
 
 ---
 
-## Scenario List  
-
-magnetic tapes
-Locard's principle
-Kerckhoff's principle
-
 ## 7.1 Understand and comply with investigations
 Electronic vaulting automatically backs up data to a secure site where storage professionals at the vaulting company's site handle the details.
 Write blocker
@@ -41,6 +35,12 @@ This reduces the nuisance alarm rate (NAR) or false positives. Crime Prevention 
 - A hoax is a social engineering attack that is attempting to trick a user into taking actions that will harm them through the use of fear that not taking action would actually cause harm.
 
 ---
+
+## Scenario List  
+
+magnetic tapes
+Locard's principle
+Kerckhoff's principle
 
 - What type of alternate processing facility ......?
 
