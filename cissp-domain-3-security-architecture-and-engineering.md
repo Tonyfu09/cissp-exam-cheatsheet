@@ -33,6 +33,8 @@ Brewer-Nash
 ## 3.3 Select controls based upon systems security requirements
 Primary distinction of the current Common Criteria (CC)
 
+Authorization to Operate (ATO)
+
 ---
 
 ## 3.5 Assess and mitigate the vulnerabilities of security architectures, designs, and solution elements
