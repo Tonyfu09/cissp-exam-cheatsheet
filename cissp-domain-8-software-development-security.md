@@ -20,6 +20,8 @@ Replay
 
 cardinality of a table
 
+Contamination is the mixing of data from a higher classification level and/or need-to-know requirement with data from a lower classification level and/or need-to-know requirement. 
+
 ## 8.5 Define and apply secure coding guidelines and standards
 Aggregate
 
