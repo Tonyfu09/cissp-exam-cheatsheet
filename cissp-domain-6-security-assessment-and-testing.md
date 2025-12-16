@@ -11,17 +11,6 @@ This domain includes:
 
 ---
 
-## Scenario List
-
-### Example Scenario 1
-During a code review, the organization uses a **formal inspection process** to identify software defects before deployment.  
-This method helps ensure consistent code quality and compliance with development standards.
-
-### Example Scenario 2
-A security team uses **synthetic transactions** to test the performance and reliability of a web application without impacting real users.
-
----
-
 ## 6.1 Design and Validate Assessment, Test, and Audit Strategies
 
 ### Frameworks and Methodologies
@@ -123,6 +112,17 @@ KPIs are used to measure security performance and process efficiency.
 | **Number of Open Findings** | Outstanding audit or scan findings not yet remediated. | Tracks control effectiveness. |
 | **Incident Response Time** | Time taken to detect and contain incidents. | Evaluates readiness and detection capabilities. |
 | **Patch Compliance Rate** | Percentage of systems updated to the latest patch level. | Reflects operational hygiene. |
+
+---
+
+## Scenario List
+
+### Example Scenario 1
+During a code review, the organization uses a **formal inspection process** to identify software defects before deployment.  
+This method helps ensure consistent code quality and compliance with development standards.
+
+### Example Scenario 2
+A security team uses **synthetic transactions** to test the performance and reliability of a web application without impacting real users.
 
 ---
 
