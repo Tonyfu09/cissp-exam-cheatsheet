@@ -20,6 +20,8 @@ Threat modeling forcus on attackers, assets and software.
 
 defense in depth: layering, classifications, zones, realms, compartments, silos, segmentations, lattice structure, and protection rings.
 
+The five key concepts of decomposition are trust boundaries, dataflow paths, input points, privileged operations, and details about security stance and approach.
+
 ---
 
 ## 3.2 Understand the fundamental concepts of security models
