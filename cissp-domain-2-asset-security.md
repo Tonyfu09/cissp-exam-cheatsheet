@@ -66,6 +66,8 @@ The **Data Lifecycle** includes the stages from creation to destruction:
 
 Spare sectors, bad sectors, and space provided for wear leveling on SSDs
 
+NIST SP 800-18 - Establishes rules for appropriate use and protection of data
+
 ---
 
 ## 2.5 Apply Data Security Controls  
