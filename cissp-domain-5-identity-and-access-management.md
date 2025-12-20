@@ -53,9 +53,7 @@ Access control should follow **defense in depth**, ensuring multiple layers of p
 
 Authentication supports **accountability** and must generate **audit trails**.
 
-- JIT
-- OpenID
-- OAuth
+
 
 
 ## 5.3 Integrate Identity as a Third-Party Service
@@ -67,6 +65,7 @@ Authentication supports **accountability** and must generate **audit trails**.
   - SAML – XML-based federation and Single Sign-On (SSO)
   - OAuth 2.0 – Authorization framework
   - OpenID Connect (OIDC) – Authentication layer on OAuth 2.0
+  - JIT
 
 Third-party identity integration requires proper **trust management** and **privacy controls**.
 
