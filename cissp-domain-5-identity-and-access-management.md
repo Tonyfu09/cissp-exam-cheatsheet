@@ -53,6 +53,11 @@ Access control should follow **defense in depth**, ensuring multiple layers of p
 
 Authentication supports **accountability** and must generate **audit trails**.
 
+- JIT
+- OpenID
+- OAuth
+
+
 ## 5.3 Integrate Identity as a Third-Party Service
 
 - **Federated Identity** – Shared authentication across organizations.
