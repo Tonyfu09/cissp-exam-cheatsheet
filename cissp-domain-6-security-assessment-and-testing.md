@@ -70,6 +70,8 @@ Branch coverage
 
 Mutation testing
 
+| **A race condition** |
+
 ---
 
 ## 6.3 Collect Security Process Data (Technical and Administrative)
