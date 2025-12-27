@@ -17,7 +17,7 @@ remediation stage -  A root cause analysis attempts to discover the source of th
 Stateful inspection
 Honeynet
 Honeypot
-Pseudoflaw
+Pseudoflaw - is a false vulnerability in a system that may distract an attacker.
 
 ## 7.11 Implement Disaster Recovery (DR) processes
 Software escrow agreements place the application source code in the hands of an independent third party, 
