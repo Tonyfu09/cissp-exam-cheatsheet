@@ -53,7 +53,7 @@ Access control should follow **defense in depth**, ensuring multiple layers of p
 
 Authentication supports **accountability** and must generate **audit trails**.
 
-
+NIST Special Publication (SP) 800-63B, "Digital Identity Guidelines:- users should not be forced to change their passwords through the use of password expiration policies.
 
 
 ## 5.3 Integrate Identity as a Third-Party Service
