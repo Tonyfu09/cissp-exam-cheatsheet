@@ -79,6 +79,11 @@ cryptanalytic attacks
 TEMPEST,  Aviod Attack
 Preaction
 
+Field-powered proximity device
+Passive proximity device
+Self-powered proximity device
+TOTP proximity token
+
 ---
 
 ## Scenario List
