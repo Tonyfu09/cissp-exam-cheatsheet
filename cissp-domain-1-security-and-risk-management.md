@@ -15,6 +15,14 @@ It covers principles like the **CIA triad**, **security governance**, and **risk
 
 Risk analysis is a “point-in-time” metric, because risks constantly change, continuous review and improvement of security is required.
 
+NIST risk management framework
+1. Categorize
+2. Select
+3. Implement
+4. Assess security controls
+5. Authorize
+6. Monitor
+
 ## Organizational Processes
 - **Mission Statement** – Purpose and long-term direction.  
 - **Strategic Plan (3–5 years)** – High-level security strategy (e.g., Zero Trust).  
