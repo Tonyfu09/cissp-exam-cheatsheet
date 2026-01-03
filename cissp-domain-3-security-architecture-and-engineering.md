@@ -22,6 +22,8 @@ defense in depth: layering, classifications, zones, realms, compartments, silos,
 
 The five key concepts of decomposition are trust boundaries, dataflow paths, input points, privileged operations, and details about security stance and approach.
 
+Layering is the deployment of multiple security mechanisms 
+
 ---
 
 ## 3.2 Understand the fundamental concepts of security models
