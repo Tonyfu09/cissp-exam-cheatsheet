@@ -45,5 +45,6 @@ These notes are not a replacement for official materials, but a **study aid** to
 1. **ISC² Official CISSP Study Guide (9th Edition)** – Mike Chapple & David Seidl  
 2. **ISC² Official Practice Tests** – Good indicator of readiness  
 3. **NIST SP 800 Series** – Useful for deep dives on frameworks and controls
+4. **CISSP - The Complete Exam Guide** - A comprehensive Udemy course covering CISSP concepts in detail https://udemy.com/course/cissp-the-complete-exam-guide/
 
 ---
