@@ -16,6 +16,10 @@ DNSSEC uses certificates to perform mutual authentication between DNS servers, a
 
 ---
 
+## 4.2 Secure network components
+
+## 4.3 Implement secure communication channels according to design
+
 ## Scenario List  
 
 
