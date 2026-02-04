@@ -9,7 +9,7 @@ It covers principles like **network protocols, secure network components, transm
 - **Ensure secure network design** that supports confidentiality, integrity, and availability  
 - **Support compliance** with organizational security policies and regulatory requirements
 
-## 4.1 Assess and implement secure design principles in network architectures
+## 4.1 Apply secure design principles in network architectures
 Low Earth orbit (LEO) satellite internet service will be the best option in this scenario
 Geostationary orbit (GEO) satellite internet service would offer slower throughput with higher latency compared to LEO
 DNSSEC uses certificates to perform mutual authentication between DNS servers, and thus public key infrastructure (PKI) is needed to provide and support those certificates. 
@@ -18,7 +18,11 @@ DNSSEC uses certificates to perform mutual authentication between DNS servers, a
 
 ## 4.2 Secure network components
 
+---
+
 ## 4.3 Implement secure communication channels according to design
+
+---
 
 ## Scenario List  
 
