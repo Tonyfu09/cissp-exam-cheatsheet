@@ -41,6 +41,10 @@ Authorization to Operate (ATO)
 
 ---
 
+## 3.4 Understand security capabilities of Information Systems (IS)
+
+---
+
 ## 3.5 Assess and mitigate the vulnerabilities of security architectures, designs, and solution elements
 Polyinstantiation
 Aggregation
@@ -77,6 +81,10 @@ cryptanalytic attacks
 
 ---
 
+## 3.8 Apply security principles to site and facility design
+
+---
+
 ## 3.9 Design site and facility security controls
 TEMPEST,  Aviod Attack
 Preaction
@@ -85,6 +93,10 @@ Field-powered proximity device
 Passive proximity device
 Self-powered proximity device
 TOTP proximity token
+
+---
+
+## 3.10 Manage the information system lifecycle
 
 ---
 
