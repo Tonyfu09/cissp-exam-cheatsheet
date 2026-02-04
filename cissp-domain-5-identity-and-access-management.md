@@ -28,7 +28,9 @@ Editing cissp-exam-cheatsheet/cissp-domain-5-identity-and-access-management.md a
 
 Access control should follow **defense in depth**, ensuring multiple layers of protection.
 
-## 5.2 Manage identification and authentication of people, devices, and services
+---
+
+## 5.2 Design identification and authentication strategy
 - **Identification** – Claiming an identity (e.g., username, device ID).
 - **Authentication** – Proving the claimed identity.
 
@@ -55,8 +57,9 @@ Authentication supports **accountability** and must generate **audit trails**.
 
 NIST Special Publication (SP) 800-63B, "Digital Identity Guidelines:- users should not be forced to change their passwords through the use of password expiration policies.
 
+---
 
-## 5.3 Integrate Identity as a Third-Party Service
+## 5.3 Federated identity with a third-party service
 
 - **Federated Identity** – Shared authentication across organizations.
 - **Identity as a Service (IDaaS)** – Cloud-based identity management.
@@ -69,6 +72,8 @@ NIST Special Publication (SP) 800-63B, "Digital Identity Guidelines:- users shou
 
 Third-party identity integration requires proper **trust management** and **privacy controls**.
 
+---
+
 ## 5.4 Implement and manage authorization mechanisms
 
 Authorization determines **what an authenticated subject is allowed to do**.
@@ -79,6 +84,8 @@ Authorization determines **what an authenticated subject is allowed to do**.
 - **ABAC (Attribute-Based Access Control)** – Access based on attributes and context.
 
 Authorization enforces **least privilege** and **separation of duties**.
+
+---
 
 ## 5.5 Manage the identity and access provisioning lifecycle
 
@@ -93,6 +100,8 @@ Authorization enforces **least privilege** and **separation of duties**.
 
 Poor lifecycle management leads to **privilege creep** and **orphaned accounts**.
 
+---
+
 ## 5.6 Implement authentication system
 
 - **Single Sign-On (SSO)** – One authentication for multiple systems.
@@ -100,6 +109,8 @@ Poor lifecycle management leads to **privilege creep** and **orphaned accounts**
 - **Multi-Factor Authentication (MFA)** – Multiple authentication factors.
 
 Authentication systems must protect **credentials**, **sessions**, and **tokens**.
+
+---
 
 ## 5.7 Manage Access Control Monitoring and Reporting
 
