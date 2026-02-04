@@ -112,17 +112,6 @@ Authentication systems must protect **credentials**, **sessions**, and **tokens*
 
 ---
 
-## 5.7 Manage Access Control Monitoring and Reporting
-
-- **Authentication Logs** – Track login attempts.
-- **Authorization Logs** – Record access decisions.
-- **Privileged Access Monitoring** – Track administrative actions.
-
-Monitoring and reporting support:
-- Accountability
-- Incident detection
-- Compliance requirements
-
 ## Scenario List
 
 ### 1. IAM Core Functions  
