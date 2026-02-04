@@ -92,6 +92,14 @@ backup verification process
 
 ---
 
+## 6.4 Analyze test output and generate report
+
+---
+
+## 6.5 Conduct or facilitate security audits
+
+---
+
 ## Business Impact Analysis (BIA) Steps
 BIA is part of **risk management** and is critical in evaluating the **impact of security incidents**.
 
