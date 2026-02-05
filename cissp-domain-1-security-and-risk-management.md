@@ -29,19 +29,29 @@ NIST risk management framework
 - **Tactical Plan (1–2 years)** – Medium-term projects (MFA, SIEM).  
 - **Operational Plan** – Daily tasks (patching, monitoring, IR).
 
+---
+
+## 1.2 Understand and apply security concepts
+
+---
+
 ## 1.3 Evaluate and apply security governance principles
 ### Divestiture Event Considerations
 - **Sanitize assets** before disposal or transfer.  
 - **Remove and destroy storage media** containing sensitive data.  
 - **Debrief employees** released from duty to ensure no residual access or knowledge risks.
 
-## 1.4 Compliance
+--- 
+
+## 1.4 Understand legal, regulatory, and compliance issues that pertain to information security in a holistic context
 - Laws  
 - Regulations  
 - Standards  
 - Internal policies  
 
-## 1.5 Legal and Regulatory Issues
+---
+
+## 1.5 Understand requirements for investigation types
 
 ### Types of Law
 - **Criminal** – Harm to society (hacking, fraud)  
@@ -59,7 +69,9 @@ NIST risk management framework
 - Admissibility  
 - Hearsay exceptions (business records)  
 
-## 1.6 Understand requirements for investigation types 
+---
+
+## 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines
 - **Administrative** – Investigates internal policy violations.  
 - **Criminal** – Investigates violations of criminal law.  
 - **Civil** – Investigates disputes between parties in civil court.  
@@ -68,7 +80,9 @@ NIST risk management framework
 
 - **Thrill Attacks** – Attacks motivated by **bragging rights** or the **pride of conquering a secure system**.  
 
-## 1.7 Risk Management Concepts
+---
+
+## 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements
 
 ### Risk Formulas
 - **Risk** = Threat × Vulnerability × Impact  
@@ -92,13 +106,14 @@ NIST risk management framework
 | **Compensating** | Alternative controls |
 
 
-## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements
+## 1.8 Contribute to and enforce personnel security policies and procedures
 - **Quantitative** – ALE, SLE, ARO  
 - **Qualitative** – High/Medium/Low ratings  
 - **Redundant communications circuits** - 
 
+---
 
-## 1.9 Risk-Based Management Concepts
+## 1.9 Understand and apply risk management concepts
 
 ### Key Concepts
 - **Risk Appetite** – Amount of acceptable risk  
@@ -106,7 +121,9 @@ NIST risk management framework
 - **Management** owns risk  
 - **Security** advises on controls  
 
-## 1.10 Security Control Assessment (SCA)
+---
+
+## 1.10 Understand and apply threat modeling concepts and methodologies
 
 Assess whether controls:
 
@@ -119,7 +136,9 @@ Assess whether controls:
 - **Interview** – Personnel  
 - **Test** – Technical validation
 
-## 1.11 Threat Modeling Concepts
+---
+
+## 1.11 Apply Supply Chain Risk Management (SCRM) concepts
 
 ### Models
 - **STRIDE**  
@@ -134,7 +153,9 @@ Assess whether controls:
 3. Identify vulnerabilities  
 4. Map controls  
 
-## 1.12 Apply Supply Chain Risk Management (SCRM) concepts
+---
+
+## 1.12 Establish and maintain a security awareness, education, and training program
 
 Supply Chain Risk Management (SCRM) concepts
 - Meet security requirements  
